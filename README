@@ -67,3 +67,5 @@ Upcoming
 
 A release (v1.0) will come soon... ;)
 After a long phase of inactivity, development has been continued!
+
+Note: by default uses custom script not in repo to check wifi ocnnecitivity, replace if necessary
